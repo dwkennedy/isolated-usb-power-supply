@@ -17,3 +17,6 @@ FILES
 
 - usb_power.brd    EAGLE board
 - usb_power.sch    EAGLE schematic
+
+Requires Doug's EAGLE library https://github.com/dwkennedy/eagle-library
+
