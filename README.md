@@ -12,3 +12,8 @@ Quanity, Description, Part Number
 - 2, powerpole right angle contact horizontal (bottom) P/N 1336G1
 - 1, powerpole PP15/45 housing, black P/N 1327
 - 1, powerpole PP15/45 housing, red P/N 1327
+
+FILES
+
+- usb_power.brd    EAGLE board
+- usb_power.sch    EAGLE schematic
